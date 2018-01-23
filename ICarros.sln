@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICarros.Crawler", "ICarros.Crawler\ICarros.Crawler.csproj", "{3F404C05-2A8E-490F-991A-3219D7BAC291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICarros.Persistencia", "ICarros.Persistencia\ICarros.Persistencia.csproj", "{AF54DA68-D984-49E6-9DCB-590F6B0A85B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F404C05-2A8E-490F-991A-3219D7BAC291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F404C05-2A8E-490F-991A-3219D7BAC291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F404C05-2A8E-490F-991A-3219D7BAC291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F404C05-2A8E-490F-991A-3219D7BAC291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF54DA68-D984-49E6-9DCB-590F6B0A85B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF54DA68-D984-49E6-9DCB-590F6B0A85B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF54DA68-D984-49E6-9DCB-590F6B0A85B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF54DA68-D984-49E6-9DCB-590F6B0A85B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA53E8C2-D249-4871-8BE3-CDA231BAC1CE}
+	EndGlobalSection
+EndGlobal
